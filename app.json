@@ -15,22 +15,22 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Xlicon_6f4076eb-ff31-4a60-aebd-603cf2408fd2"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "9d2029a7-050a-4cb6-9e6e-ee8ed0827a38"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
