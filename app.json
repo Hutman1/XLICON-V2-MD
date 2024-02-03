@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Xlicon_6f4076eb-ff31-4a60-aebd-603cf2408fd2"
+      "value": "Xlicon_3eedc4d4-f84a-4f13-9f43-e673e4ce39b8"
     },
     "MODE": {
       "description": "mode public or private",
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -50,7 +50,8 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true
+e"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
