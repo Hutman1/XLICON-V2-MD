@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Xlicon_3eedc4d4-f84a-4f13-9f43-e673e4ce39b8"
+      "value": "Xlicon_a02d1824-7731-4533-acd7-86ba9e2d2bf3"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,7 +30,7 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "9d2029a7-050a-4cb6-9e6e-ee8ed0827a38"
+      "value": "61f1f883-5c74-4c14-a310-c4cc18f5f1ef"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
